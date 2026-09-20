@@ -1685,7 +1685,7 @@ and include the corresponding `LICENSE` file.
 
 # Author
 
-**Aliya Ansari**
+**Neha Kumari**
 
 Car Rental API Backend — Spring Boot Project.
 
