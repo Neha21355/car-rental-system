@@ -2,7 +2,7 @@
 
 ## Config
 - Backend: `http://localhost:1571`
-- MySQL: `car_rental_Niwash` / user `root` / password `root`
+- MySQL: `car-rental-api` / user `root` / password `root`
 - Frontend: `http://localhost:3000` (Vite proxies `/api` → `:1571`)
 
 ## Setup MySQL
